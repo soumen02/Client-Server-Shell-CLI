@@ -15,6 +15,7 @@ Phase 3, adds the feature of multiple clients to connect to one server. This is 
 4. __Phase 4__:
 In this phase, scheduling algorithms are implemented to order the commands sent by multiple clients. The user is allowed to send a dummy program with a desired runtime and the server decides the processing time for each applicaiton using Round Robin Scheduling and Shortest Job First. The server has a realtime clock in the back to synchronize the running of the programs and sending the clients the results. 
 
+_The zipped phase files contain a detailed documentation for each phase_
 
 ### How to run the code. 
 - Make sure gnu gcc C++ is installed.
